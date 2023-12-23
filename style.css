@@ -44,7 +44,7 @@ body{
     padding-top: 81px;
 }
 .real-form {
-    Width:580px;
+    Width:100%;
     Height:679px;
     background-color: #fff;
     backdrop-filter: blur(35px);
